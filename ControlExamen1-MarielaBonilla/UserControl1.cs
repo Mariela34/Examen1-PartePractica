@@ -79,11 +79,11 @@ namespace ControlExamen1_MarielaBonilla
 
             int[] array = new int[] { 0, 0 };
             ArrayList noAcertados = new ArrayList();
-            ArrayList palabra = palabraDividida();
+            String[] palabra = palabraDividida();
             //verifica aciertos totales
             for (int i = 0; i < 4; i++)
             {
-                if (combinacionOculta[i] == palabra[i].ToString())
+                if (combinacionOculta[i].Equals(palabra[i]))
                 {
                     array[1] = array[1] + 1;
 
@@ -105,7 +105,7 @@ namespace ControlExamen1_MarielaBonilla
                 {
                     foreach (int posLetra in noAcertados)
                     {
-                        if (combinacionOculta[pos] == palabra[posLetra].ToString())
+                        if (combinacionOculta[pos].Equals(palabra[posLetra]))
                         {
                             array[0] = array[0] + 1;
                         }
@@ -117,13 +117,15 @@ namespace ControlExamen1_MarielaBonilla
         }
 
 
-        private ArrayList palabraDividida()
+        private String[] palabraDividida()
         {
+            int cont = 0;
             String text = texto.Text.ToUpper();
-            ArrayList palabra = new ArrayList();
+            String[] palabra = new String[4];
             foreach (char a in text)
             {
-                palabra.Add(a);
+                palabra[cont] = a.ToString() ;
+                cont++;
             }
             return palabra;
         }
