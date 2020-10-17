@@ -1,0 +1,8 @@
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\bin\Debug\ControlExamen1-MarielaBonilla.dll
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\bin\Debug\ControlExamen1-MarielaBonilla.pdb
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\obj\Debug\ControlExamen1-MarielaBonilla.csprojAssemblyReference.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\obj\Debug\ControlExamen1_MarielaBonilla.UserControl1.resources
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\obj\Debug\ControlExamen1-MarielaBonilla.csproj.GenerateResource.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\obj\Debug\ControlExamen1-MarielaBonilla.csproj.CoreCompileInputs.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\obj\Debug\ControlExamen1-MarielaBonilla.dll
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Examen1-MarielaBonilla\ControlExamen1-MarielaBonilla\ControlExamen1-MarielaBonilla\obj\Debug\ControlExamen1-MarielaBonilla.pdb
